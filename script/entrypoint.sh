@@ -20,3 +20,5 @@ fi
 $(command -v airflow) db upgrade
 
 exec airflow webserver
+
+#!/bin/bash
